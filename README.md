@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my CS 499 ePortfolio Page
+
+The purpose of this ePortfolio is to highlight some of the core skills and concepts I have learned from the Computer Science program at Southern New Hampsire University. I have chosen 3 artifacts (programs) from previous course work to enhance with new skills, and display on this GitHub page.
 
 You can use the [editor on GitHub](https://github.com/jack-whipple/jack-whipple.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
